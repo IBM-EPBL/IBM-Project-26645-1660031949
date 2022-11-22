@@ -7,7 +7,6 @@
                                 ANBARASAN K
                                 AJAY SRIRAM D
                    
-  PROJECT OVERVIEW:
   SMART SOLUTIONS FOR RAILWAYS is to manage Indian Railways isthe largest 
   railway network in Asia and additionally world's second largest networkoperated 
   underneath a single management. Due to its large size it is difficult to monitor the 
